@@ -1,0 +1,28 @@
+{
+  "project": "Elizabeth AI Fusion Android Kotlin",
+  "date": "2026-10-18",
+  "verified": "Kotlin core smoke test; Android SDK build unverified",
+  "file_sha256": {
+    ".github/workflows/android-apk.yml": "94feb09c435779a9a408f847834f7062383109a8b724b5f64f1fdc8d58b96068",
+    ".gitignore": "3df25aed723587d25d24da4bebd71b3dbbaa5336e212682986f99e151237e624",
+    "README.md": "d5b753198d9395fb397ca578cec71d7dfe36bed8694017078a898b55eb46ae8d",
+    "app/build.gradle.kts": "add36015a35bc4324105683fa98a31d519b0e6b798c5f97108af8828336d4ba9",
+    "app/src/main/AndroidManifest.xml": "e6c934d84b900d4100059ef4dec8e9c5ab80ace25e3eb1b224812ee635986652",
+    "app/src/main/java/hu/elizabeth/fusion/ai/Council.kt": "dae4923ab78fc2c1b251a19a5489496e399480106aadbe2e41b893098724353e",
+    "app/src/main/java/hu/elizabeth/fusion/ai/NeuralEngine.kt": "8948fa119d1c37c8c37130786e833baebb52237ff8f7551fd5a4eb81b4ee5f1f",
+    "app/src/main/java/hu/elizabeth/fusion/ai/OfflineBrain.kt": "e0bb2dbdc87344b801b238ff0635b6e733acf636ac82ba8d7a89f3ac807dc270",
+    "app/src/main/java/hu/elizabeth/fusion/ai/Reasoning.kt": "e7dcb45a2901fd811192e94e0766b2afbb31e2d92b9f873f834923facf086243",
+    "app/src/main/java/hu/elizabeth/fusion/data/State.kt": "71c9c019d1b80995253fa3c503d68f06f0f637813efa503dbd0702ad3a8e5cce",
+    "app/src/main/java/hu/elizabeth/fusion/security/SecureStorage.kt": "d0fc74b6b1a36b69e7c4fbade98b579fba538b5f776935e13f14490f03f1838c",
+    "app/src/main/java/hu/elizabeth/fusion/ui/MainActivity.kt": "fd8bd353bc34d3da305e760a5a264111f38ef73e386b13726c50e53894770c7d",
+    "app/src/test/java/hu/elizabeth/fusion/ai/ReasoningTest.kt": "4864c03d3023624d35b3b5c47450f6932e831586b3a6ba0ef02e0a0c9dca2cfd",
+    "build.gradle.kts": "419a30177503b990d4e0cab99ee6a8720724ace4fd8a67f80f0bd4cab39b2df1",
+    "docs/ARCHITEKTURA.md": "a51d3ca8e0217a5856a6be7b3dd6347048e753977a5bf4c5f1a9e8e06003e034",
+    "docs/BIZTONSAG.md": "a747b3aa7dce393e0dd5c4beee31e48e3c08b6b845f642ef9b698ad3cebd54bf",
+    "docs/GITHUB-FELTOLTES.md": "17c7a0efc801837326ff978d5adbf0c615e2f1ac583dbe12197ab835a15fff19",
+    "docs/KOZELJOVO.md": "13588aec00d9998fde807d5cfc9d35c2b234f31ac5a512a864ad96cba5e39608",
+    "docs/TESZTELÉS.md": "98d8ff352cb43190914dc8c952db07040a4cf3000771cf14cd0275716f9a4526",
+    "gradle.properties": "616f96d25d8a2699f5ab49cee22187a42f4d4abf567a6f92a603b7a84a1f355a",
+    "settings.gradle.kts": "c7e381160e5572ff82c81b21254554cd9cd121f3f5073c0f844aa4ef4b38e241"
+  }
+}
